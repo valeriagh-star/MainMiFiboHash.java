@@ -1,3 +1,5 @@
+//Alumna: García Herrera Valeria
+
 package fibonacci;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -85,3 +87,4 @@ public class MainMiFiboHash {
 	        }
 	    }
 	}
+
